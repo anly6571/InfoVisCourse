@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+
+.tex {
+  opacity: 90%;
+  /* fill: url("#img1"); */
+}
+
+#app {
+  background-image: url("./grunge1.jpg");
+  background-color: #ff0000;
+}
